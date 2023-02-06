@@ -1,0 +1,14 @@
+C:\Users\ucenik\source\repos\XMLZadatak\bin\Debug\XMLZadatak.exe.config
+C:\Users\ucenik\source\repos\XMLZadatak\bin\Debug\XMLZadatak.exe
+C:\Users\ucenik\source\repos\XMLZadatak\bin\Debug\XMLZadatak.pdb
+C:\Users\ucenik\source\repos\XMLZadatak\obj\Debug\XMLZadatak.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\XMLZadatak\obj\Debug\XMLZadatak.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\XMLZadatak\obj\Debug\XMLZadatak.Form1.resources
+C:\Users\ucenik\source\repos\XMLZadatak\obj\Debug\XMLZadatak.Properties.Resources.resources
+C:\Users\ucenik\source\repos\XMLZadatak\obj\Debug\XMLZadatak.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\XMLZadatak\obj\Debug\XMLZadatak.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\XMLZadatak\obj\Debug\XMLZadatak.exe
+C:\Users\ucenik\source\repos\XMLZadatak\obj\Debug\XMLZadatak.pdb
+C:\Users\ucenik\source\repos\XMLZadatak\obj\Debug\XMLZadatak.Pretraga.resources
+C:\Users\ucenik\source\repos\XMLZadatak\obj\Debug\XMLZadatak.UpisKnjiga.resources
+C:\Users\ucenik\source\repos\XMLZadatak\obj\Debug\XMLZadatak.UpisKorisnika.resources
